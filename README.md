@@ -6,4 +6,6 @@
 <p>&nbsp;</p>
 <p><a href="https://www.codewars.com/users/milordmariusz" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/milordmariusz/badges/small" alt="codewars" /></a></p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=milordmariusz&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=milordmariusz&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=milordmariusz&theme=dark)
+
+
