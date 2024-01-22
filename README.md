@@ -1,5 +1,4 @@
 <h1 align="left">Hi I'm Mariusz Wróbel</h1>
-<h3 align="left">I'm 'Computer Science' Student at Silesian University of Technology in Gliwice.</h3>
 <p>&nbsp;</p> 
 <h3 align="left">Languages and Tools that I'm using:</h3>
 <p align="left">
