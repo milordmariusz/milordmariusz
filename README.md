@@ -15,6 +15,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <p>&nbsp;</p>
 <p><a href="https://www.codewars.com/users/milordmariusz" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/milordmariusz/badges/small" alt="codewars" /></a></p>
+<p><a href="https://leetcode.com/milordmariusz/" target="_blank" rel="noreferrer"> <img src="https://leetcard.jacoblin.cool/milordmariusz?theme=dark&font=ABeeZee" alt="LeetCode" /></a></p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=milordmariusz&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=milordmariusz&theme=dark)
 
